@@ -154,14 +154,14 @@ span {
 .page-footer {
     background: #2F303A;
 }
-.logo-footer{
-    font-family: 'Raleway', sans-serif;
-    font-size: 14px;
-    line-height: 1.7;
-    color: #FFFFFF;
+.logo-footer {
+    font-family:'Raleway';
     font-style: normal;
-    text-decoration: none;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
 }
+
 .adress-footer {
     font-weight: 400;
     font-size: 14px;
